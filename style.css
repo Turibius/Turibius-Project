@@ -10,6 +10,7 @@ body{
     width: 100%;
     height: 100vh;
     background: linear-gradient(155deg, #03A3D1 10%, #13CC79 90%);
+    background-image: url(foto/foto1.jpg);
 }
 .container{
     position: absolute;
